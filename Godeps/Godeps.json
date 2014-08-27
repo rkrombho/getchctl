@@ -1,0 +1,11 @@
+{
+	"ImportPath": "github.com/rkrombho/getchctl",
+	"GoVersion": "go1.3.1",
+	"Deps": [
+		{
+			"ImportPath": "github.com/codegangsta/cli",
+			"Comment": "1.2.0-22-g687db20",
+			"Rev": "687db20fc379d1686465a28e9959707cd1acc990"
+		}
+	]
+}
