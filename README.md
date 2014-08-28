@@ -1,6 +1,6 @@
 getchctl
 ========
-`getchctl` is a CLI client for [Getch](https://github.com/rkrombho/getch).
+`getchctl` is a command line client for [Getch](https://github.com/rkrombho/getch).
 
 ### Features
 
@@ -13,7 +13,7 @@ The following Getch features are supported by `getchctl`
 
 ### Download and Install
 Just download the [latest release](https://github.com/rkrombho/getchctl/releases/) for your platform and place it anywhere on your system.
-It's of course recmmendable to extend your `$PATH` or `%PATH%` variable to the location where you plan to locate the `getchctl` or `getchctl.exe` file.
+It's of course recommendable to extend your `$PATH` or `%PATH%` variable to the location where you plan to locate the `getchctl` or `getchctl.exe` file.
 
 ### Configuration
 
