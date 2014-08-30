@@ -16,7 +16,7 @@ func NewGetCommand(client *getch.Client) cli.Command {
 			}
 			key := c.Args()[0]
 			value := client.Get(key)
-			fmt.Println(value)
+			fmt.Print(value)
 		},
 	}
 }
