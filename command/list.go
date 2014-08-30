@@ -14,7 +14,7 @@ func NewListCommand(client *getch.Client) cli.Command {
 			//in Getch a List is a a normal Get request with the keyword 'list'
 			key := "list"
 			value := client.Get(key)
-			fmt.Println(value)
+			fmt.Print(value)
 		},
 	}
 }
